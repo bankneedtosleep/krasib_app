@@ -38,7 +38,7 @@
 
 1.  **Clone Project:**
     ```bash
-    git clone [https://github.com/your-username/krasib.git](https://github.com/your-username/krasib.git)
+    git clone [https://github.com/your-username/krasib.git](https://github.com/bankneedtosleep/krasib_app.git)
     ```
 2.  **Install Dependencies:**
     ```bash
